@@ -1,0 +1,23 @@
+{
+  "name": "babatundeololade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "babatundeololade": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babatunde50/babatundeololade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Babatunde50/babatundeololade/issues"
+  },
+  "homepage": "https://github.com/Babatunde50/babatundeololade#readme"
+}
