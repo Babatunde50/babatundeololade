@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Babatunde50/babatundeololade/issues"
   },
-  "homepage": "https://github.com/Babatunde50/babatundeololade#readme"
+  "homepage": "https://github.com/Babatunde50/babatundeololade#readme",
+  "dependencies": {
+    "clear-any-console": "^1.16.2"
+  }
 }

@@ -1,3 +1,7 @@
-#!/usr/bin/env node 
+#!/usr/bin/env node
 
-console.log("Babatunde Ololade")
+const clearConsole = require('clear-any-console');
+
+clearConsole();
+
+console.log('Babatunde Ololade');
