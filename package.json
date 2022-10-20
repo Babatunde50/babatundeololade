@@ -1,7 +1,7 @@
 {
   "name": "babatundeololade",
   "version": "1.1.0",
-  "description": "",
+  "description": "Get to know Babatunde Ololade `npx babatundeololade`",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Babatunde50/babatundeololade#readme",
   "dependencies": {
-    "clear-any-console": "^1.16.2"
+    "clear-any-console": "^1.16.2",
+    "cli-welcome": "^2.2.2"
   }
 }
